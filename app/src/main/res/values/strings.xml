@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Messenger Cesar</string>
+    <string name="hello_world"></string>
+    <string name="send">Enviar Mensaje</string>
+    <string name="title">Recibir Mensaje</string>
+    <string name="info">En criptografía, el cifrado César, también conocido como cifrado por
+        desplazamiento, código de César o desplazamiento de César, es una de las técnicas de cifrado
+        más simples y más usadas. Es un tipo de cifrado por sustitución en el que una letra en el
+        texto original es reemplazada por otra letra que se encuentra un número fijo de posiciones
+        más adelante en el alfabeto. Por ejemplo, con un desplazamiento de 3, la A sería sustituida
+        por la D (situada 3 lugares a la derecha de la A ), la B sería reemplazada por la E, etc.
+        Este método debe su nombre a Julio César, que lo usaba para comunicarse con sus generales.</string>
+
+    <string-array name="fase" >
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+
+</resources>
